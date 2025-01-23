@@ -25,7 +25,7 @@ N = 60
 n = 20
 
 6. Explain any problems that you ran into during the data collection process.
-At first, I tried to remember which leaves I measured, but I kept losing track. Eventually, I resorted to marking a dot on the measured leaves with a sharpie. The process was surprisingly tedious and time consuming. I had to make a decision about where to measure the leaves--essentially deciding, for each leaf, what the "base" of the leaf is. Getting the instrument into the tight spaces around the delicate leaves was the most tedious part of all. 
+At first, I tried to remember which leaves I measured, but I kept losing track. Eventually, I resorted to marking a dot on the measured leaves with a sharpie. The process was surprisingly tedious and time consuming. I had to make a decision about where to measure the leaves--essentially deciding, for each leaf, what the "base" of the leaf is. Getting the instrument into the tight spaces around the delicate leaves was the most tedious part of all. Some leaves were very flexible, while others were not yet had significant bends and curves in their structure. My micrometer and ruler could not bend to these contours, so my measurements can't be exact if our definition of "length" is "a line that follows the contoured surface" vs. just a straight line from base to tip of leaf.
 
 Analysis/Visualization - (50 points)
 Now that you have collected the data you will now need to analyze and visualize the data.
