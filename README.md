@@ -8,3 +8,5 @@ Cody Snow
 PDF with answers and charts: DS5110_HW2.pdf
 
 Code: ds5110_hw2.py (also available as a Jupyter notebook)
+
+Data file (in data folder): Cody_Snow_Dataset.csv
